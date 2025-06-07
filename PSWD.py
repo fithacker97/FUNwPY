@@ -47,7 +47,4 @@ if __name__ == "__main__":
             print(e)
             print("Invalid input! Please enter a valid number for password length.")
             continue
-            continue
-            continue
-            continue
-            continue            
+            
