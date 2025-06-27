@@ -32,8 +32,4 @@ if __name__ == "__main__":
             print("Invalid input! Please enter yes or no.")
             print("Invalid input! Please enter yes or no.")
             continue
-            continue
-            continue
-            continue
-            continue
-            continue      
+            
