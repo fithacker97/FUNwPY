@@ -1,0 +1,22 @@
+body {
+    background: #222;
+    color: #fff;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+#game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+canvas {
+    background: #111;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #000;
+}
